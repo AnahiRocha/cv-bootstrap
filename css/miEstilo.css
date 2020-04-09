@@ -1,0 +1,44 @@
+nav ul li a{
+	color:#fff;
+	font-size:14px;
+	text-decoration:none;
+	text-transform:uppercase;
+	padding-left:15px;
+	font-weight:bold;
+	letter-spacing:1px;
+	
+	
+}
+
+#ti{
+	color:#00a8cc;
+}
+.nav-link:hover{
+	color:#98d6ea;
+}
+#gale .col-sm-4 {
+	margin:0 !important;
+	padding:25px;
+}
+#gale img{
+	
+	width:100%;
+}
+#gale img:hover{
+	border:5px solid #fff;
+}
+#Contacto, #acerca{
+	    background: #edf7fa;
+}
+ footer img{
+	width: 10%;
+	height: 50%;
+	margin-left:30px;
+
+}
+#aplicaciones{
+background-color:#edffea;	
+}
+footer a{
+	text-decoration:none;
+}
